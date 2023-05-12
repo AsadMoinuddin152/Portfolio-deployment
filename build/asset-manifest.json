@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b434cb2e.css",
+    "main.js": "/static/js/main.427ccc9c.js",
+    "static/media/VHack Certificate.jpg": "/static/media/VHack Certificate.3fc61918ae43ba445776.jpg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.1cdf31bc1d12fee92cd4.png",
+    "static/media/WORKSHOP VOLUNTEERING.jpg": "/static/media/WORKSHOP VOLUNTEERING.55c5a5e1882b0168c57f.jpg",
+    "static/media/cv.pdf": "/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.461611e4347d6e531aa2.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.0b1fb8e3e21096c35a1b.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.5a86198ce9dddacd1005.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.ac6536fe5353b2ad7489.jpg",
+    "static/media/My_pic2.jpg": "/static/media/My_pic2.f530d88f2b9a758b1619.jpg",
+    "static/media/my_pic_1.png": "/static/media/my_pic_1.037ebb1b73735517e0b4.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.fb1f4868f1bb62d9206d.jpg",
+    "index.html": "/index.html",
+    "main.b434cb2e.css.map": "/static/css/main.b434cb2e.css.map",
+    "main.427ccc9c.js.map": "/static/js/main.427ccc9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b434cb2e.css",
+    "static/js/main.427ccc9c.js"
+  ]
+}
